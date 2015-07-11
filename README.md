@@ -1,0 +1,1 @@
+This package is to facilitate the building PHP applications with Docker, which will start with an object to grab all of the connection details for a [Docker Link](https://docs.docker.com/userguide/dockerlinks/).
