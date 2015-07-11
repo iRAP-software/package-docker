@@ -1,0 +1,22 @@
+{
+    "name": "irap/docker",
+    "type": "library",
+    "description": "An package to facilitate the development of dockerized PHP applictions.",
+    "keywords": ["docker"],
+    "homepage": "https://github.com/iRAP-software/package-docker",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stuart Page",
+            "email": "stuart.page@irap.org"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "iRAP\\Docker\\": ""
+        }
+    }
+}
